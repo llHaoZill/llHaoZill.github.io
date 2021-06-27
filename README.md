@@ -1,9 +1,12 @@
+<h1 style="text-align:center;">
+	<span style="font-size:32px;"><span style="color:#E53333;font-family:SimHei;"><strong>H</strong></span><span style="color:#E56600;font-family:SimHei;"><strong>z</strong></span><span style="color:#FFE500;font-family:SimHei;"><strong>专</strong></span><span style="color:#B8D100;font-family:SimHei;"><strong>用</strong></span><span style="color:#00D5FF;font-family:SimHei;"><strong>Git</strong></span><span style="color:#9933E5;font-family:SimHei;"><strong>网</strong></span><span style="color:#003399;font-family:SimHei;"><strong>盘</strong></span></span> 
+</h1>
 <p style="text-align:center;">
-	<span style="font-size:32px;color:#00D5FF;"><span style="color:#E53333;">耗</span><span style="color:#E56600;">子</span><span style="color:#FFE500;">专</span><span style="color:#B8D100;">用</span><span style="color:#00D5FF;">GIt</span><span style="color:#9933E5;">网</span><span style="color:#4C33E5;">盘</span></span> 
+	<span style="color:#E53333;font-family:SimHei;font-size:16px;"><strong>调用专用</strong></span> 
 </p>
 <p style="text-align:center;">
-	<span style="color:#E53333;">私用，请勿浏览</span> 
+	<span style="color:#E53333;"><span style="font-family:&quot;"></span><span style="font-family:SimHei;"><span style="font-family:Microsoft YaHei;"><strong></strong></span><strong><span style="font-size:16px;">请勿浏览</span></strong></span></span>
 </p>
 <p style="text-align:center;">
-	<br />
+	<span style="color:#E53333;"><span style="font-family:SimHei;"><strong><span style="font-size:16px;"><span style="line-height:1;"><embed src="http://files.jubatian.com/foaddemo/" type="application/x-shockwave-flash" width="550" height="400" quality="high" /></span></span></strong></span></span> 
 </p>
