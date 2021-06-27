@@ -5,8 +5,10 @@
 	<span style="color:#E53333;font-family:SimHei;font-size:16px;"><strong>调用专用</strong></span> 
 </p>
 <p style="text-align:center;">
-	<span style="color:#E53333;"><span style="font-family:&quot;"></span><span style="font-family:SimHei;"><span style="font-family:Microsoft YaHei;"><strong></strong></span><strong><span style="font-size:16px;">请勿浏览</span></strong></span></span>
+	<span style="color:#E53333;"><span style="font-family:&quot;"></span><span style="font-family:SimHei;"><span style="font-family:Microsoft YaHei;"><strong></strong></span><strong><span style="font-size:16px;">请勿浏览</span></strong></span></span> 
 </p>
 <p style="text-align:center;">
-	<span style="color:#E53333;"><span style="font-family:SimHei;"><strong><span style="font-size:16px;"><span style="line-height:1;"><embed src="http://files.jubatian.com/foaddemo/" type="application/x-shockwave-flash" width="550" height="400" quality="high" /></span></span></strong></span></span> 
+	<br />
 </p>
+<iframe src="http://files.jubatian.com/foaddemo/" height="620" width="456">
+</iframe>
