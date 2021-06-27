@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/llHaoZill/llHaoZill.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/llHaoZill/llHaoZill.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p style="text-align:center;">
+	<span style="font-size:32px;color:#00D5FF;"><span style="color:#E53333;">耗</span><span style="color:#E56600;">子</span><span style="color:#FFE500;">专</span><span style="color:#B8D100;">用</span><span style="color:#00D5FF;">GIt</span><span style="color:#9933E5;">网</span><span style="color:#4C33E5;">盘</span></span>
+</p>
+<p style="text-align:center;">
+	<span style="color:#E53333;">私用，请勿浏览</span>
+</p>
+<p style="text-align:center;">
+	<span style="color:#E53333;"><br />
+</span>
+</p>
