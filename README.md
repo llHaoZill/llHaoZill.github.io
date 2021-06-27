@@ -10,5 +10,3 @@
 <p style="text-align:center;">
 	<br />
 </p>
-<iframe src="http://files.jubatian.com/foaddemo/" height="620" width="456">
-</iframe>
