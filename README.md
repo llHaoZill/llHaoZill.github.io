@@ -1,9 +1,0 @@
-<p style="text-align:center;">
-	<span style="font-size:32px;"><span style="color:#E53333;font-family:SimHei;"><strong>H</strong></span><span style="color:#E56600;font-family:SimHei;"><strong>z</strong></span><span style="color:#FFE500;font-family:SimHei;"><strong>专</strong></span><span style="color:#B8D100;font-family:SimHei;"><strong>用</strong></span><span style="color:#00D5FF;font-family:SimHei;"><strong>Git</strong></span><span style="color:#9933E5;font-family:SimHei;"><strong>网</strong></span><span style="color:#003399;font-family:SimHei;"><strong>盘</strong></span></span> 
-</p>
-<p style="text-align:center;">
-	<span style="color:#E53333;font-family:SimHei;font-size:16px;"><strong>调用专用</strong></span> 
-</p>
-<p style="text-align:center;">
-	<span style="color:#E53333;"><span style="font-family:&quot;"></span><span style="font-family:SimHei;"><span style="font-family:Microsoft YaHei;"><strong></strong></span><strong><span style="font-size:16px;">请勿浏览</span></strong></span></span> 
-</p>
